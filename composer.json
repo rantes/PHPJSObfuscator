@@ -1,0 +1,30 @@
+{
+    "name": "rantes/phpjsobfuscator",
+    "type": "framework",
+    "description": "PHP library to obfuscate JS files",
+    "keywords": [
+        "php",
+        "js",
+        "obsfucate",
+        "obfuscator"
+    ],
+    "homepage": "https://github.com/rantes/PHPJSObfuscator",
+    "support": {
+        "issues": "https://github.com/rantes/PHPJSObfuscator/issues",
+        "source": "https://github.com/rantes/PHPJSObfuscator"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Javier Serrano",
+            "email": "rantes.javier@gmail.com",
+            "homepage": "https://github.com/rantes/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.3.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
